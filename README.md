@@ -1,1 +1,1 @@
-# bioconductor-small-project
+# bioconductor-small-projects
